@@ -1,0 +1,32 @@
+# M&O weekly team accountability check. Change a value here, commit, and the next run uses it.
+# A schedule change also needs the install prompt re-run in the project (see INSTALL.md).
+account: mo
+label: "M&O"                         # used in the doc title
+results_account: "M&O"               # value in the Results sheet's Account column
+project: "Meadows & Ohly - Engagement Lead"
+schedule: "CRON_TZ=America/New_York 47 13 * * 3"   # Wednesdays 1:47pm ET
+mode: report_only                    # report_only -> "(TEST)" doc, no Results rows. live -> doc + Results rows.
+owner_email: mark.hodgdon@answerrocket.com
+trend_weeks: 3
+ciq:
+  primary: {id: f6039cfd-f3d2-4158-81f4-4c252230d625, name: "Meadows & Ohly Phase 2 - Data & Analytics Buildout"}
+  context:
+    - {id: e112f025-db2a-447a-b026-e18429c698d6, name: "Meadows & Ohly Phase 2 - Data & Analytics Buildout (2027)"}
+  rediscover_names: ["Meadows", "M&O"]    # new CIQ projects matching these are reported as open items
+jira: {project: MEADOWSOH, milestone_watch: false, sow_tagging: false}
+slack: {channels: [C09JSCC986Q]}
+fireflies_titles: ["M&O", "Meadows", "DnA", "standup"]
+roster:   # who is expected on the account; matched by email only
+  - {name: Alexander Holloway, email: alex.holloway@answerrocket.com}
+  - {name: Clayton Summitt, email: clayton.summitt@answerrocket.com}
+  - {name: Kevin McLanahan, email: kevin.mclanahan@answerrocket.com}
+  - {name: Erik Blas, email: erik.blas@answerrocket.com}
+  - {name: Jacob McPhillips, email: jacob.mcphillips@answerrocket.com}
+  - {name: Ben Titmus, email: ben.titmus@answerrocket.com, note: client partner}
+  - {name: Mark Hodgdon, email: mark.hodgdon@answerrocket.com}
+thresholds: {}          # defaults in acc/config.py; override per account here
+max_walk_flags: 10
+output:
+  doc_folder: 1HA1mClhk6B-nKwCs0NH1ub2zp2L-t5Gy
+  results_sheet: 1PTuf6BhuaV53C87WjTYQpMqfZDmxaAL3QVrzdsN2_6E
+  results_tab: Results

@@ -1,0 +1,30 @@
+# Hoonigan weekly team accountability check (Call Queue/CRM SOW; name the SOW on every item).
+account: hoonigan
+label: "Hoonigan"
+results_account: "Hoonigan (Call Queue/CRM)"
+project: "Hoonigan - Engagement Lead"
+schedule: "CRON_TZ=America/New_York 7 14 * * 3"    # Wednesdays 2:07pm ET
+mode: report_only
+owner_email: mark.hodgdon@answerrocket.com
+trend_weeks: 3
+ciq:
+  primary: {id: 3da76342-9329-432a-b435-8507c2ec5fd9, name: "Hoonigan: Agent Call Queue (CIQ)"}
+  context: []           # SAP/ERP Data Cleansing has no CIQ project yet (checked 11/11); add it here when it exists
+  rediscover_names: ["Hoonigan", "Wheel Pros", "SAP", "ERP"]
+jira: {project: HOON, milestone_watch: false, sow_tagging: true}
+slack: {channels: [C0B2ZFNTRSS]}
+fireflies_titles: ["Hoonigan", "Call Queue", "Wheel Pros", "standup"]
+roster:
+  - {name: Brian Perconti, email: brian.perconti@answerrocket.com}
+  - {name: Grant Barchard, email: grant.barchard@answerrocket.com}
+  - {name: Clayton Summitt, email: clayton.summitt@answerrocket.com}
+  - {name: Kevin McLanahan, email: kevin.mclanahan@answerrocket.com}
+  - {name: Erik Blas, email: erik.blas@answerrocket.com}
+  - {name: Ben Titmus, email: ben.titmus@answerrocket.com}
+  - {name: Mark Hodgdon, email: mark.hodgdon@answerrocket.com}
+thresholds: {}
+max_walk_flags: 10
+output:
+  doc_folder: 1HA1mClhk6B-nKwCs0NH1ub2zp2L-t5Gy
+  results_sheet: 1PTuf6BhuaV53C87WjTYQpMqfZDmxaAL3QVrzdsN2_6E
+  results_tab: Results

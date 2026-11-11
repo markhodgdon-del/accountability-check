@@ -1,0 +1,186 @@
+{
+ "rows": [
+  {
+   "email": "jack.haidet@answerrocket.com",
+   "name": "Jack Haidet",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "jack.haidet@answerrocket.com",
+   "name": "Jack Haidet",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "jack.haidet@answerrocket.com",
+   "name": "Jack Haidet",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "jack.haidet@answerrocket.com",
+   "name": "Jack Haidet",
+   "week": "2026-11-01",
+   "project": "67526f69-2583-446a-ac4a-314a374121d2",
+   "hours": "12",
+   "blank_note_rows_ge4h": 1,
+   "statuses": "approved"
+  },
+  {
+   "email": "jack.haidet@answerrocket.com",
+   "name": "Jack Haidet",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "28",
+   "blank_note_rows_ge4h": 1,
+   "statuses": "approved"
+  },
+  {
+   "email": "kin-yip.chien@answerrocket.com",
+   "name": "Kin-Yip Chien",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kin-yip.chien@answerrocket.com",
+   "name": "Kin-Yip Chien",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kin-yip.chien@answerrocket.com",
+   "name": "Kin-Yip Chien",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kin-yip.chien@answerrocket.com",
+   "name": "Kin-Yip Chien",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 2,
+   "statuses": "approved"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 3,
+   "statuses": "approved"
+  },
+  {
+   "email": "raymond.velez@answerrocket.com",
+   "name": "Ray Velez",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "raymond.velez@answerrocket.com",
+   "name": "Ray Velez",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "raymond.velez@answerrocket.com",
+   "name": "Ray Velez",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "shanti.greene@answerrocket.com",
+   "name": "Shanti Greene",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "46.25",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "shanti.greene@answerrocket.com",
+   "name": "Shanti Greene",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "55.34",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "shanti.greene@answerrocket.com",
+   "name": "Shanti Greene",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "43.92",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "shanti.greene@answerrocket.com",
+   "name": "Shanti Greene",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "47",
+   "blank_note_rows_ge4h": 1,
+   "statuses": "submitted"
+  }
+ ],
+ "rowCount": 20,
+ "hasMore": false
+}

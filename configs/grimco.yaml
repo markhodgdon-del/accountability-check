@@ -1,0 +1,34 @@
+# Grimco weekly team accountability check, with milestone watch (fixed-fee milestones, Dec 31 revenue).
+account: grimco
+label: "Grimco"
+results_account: "Grimco"
+project: "Grimco - Engagement Lead"
+schedule: "CRON_TZ=America/New_York 23 14 * * 3"   # Wednesdays 2:23pm ET
+mode: report_only
+owner_email: mark.hodgdon@answerrocket.com
+trend_weeks: 3
+ciq:
+  primary: {id: df4894d4-b210-4d78-848e-d87193d3ac57, name: "Grimco Customer Experience Intelligence MVP"}
+  context:
+    - {id: 71585526-0ed1-4ff7-9ac5-ddf2601aa6ad, name: "Grimco: AI Leadership Advisory"}
+    - {id: 9e3703e3-5e9c-4739-83e2-96aa9883ecad, name: "Grimco: Customer Experience KPIs"}
+    - {id: 1616ce80-a8bc-4340-aea8-183b16b24435, name: "Grimco: Workshop"}
+  rediscover_names: ["Grimco"]
+jira: {project: GRIM, milestone_watch: true, milestone_labels: [fee-risk, gate], sow_tagging: false}
+slack: {channels: [C0BQVECPBLZ]}
+fireflies_titles: ["Grimco", "GrimCO", "CallMiner", "standup"]
+roster:
+  - {name: Muhammad Khan, email: muhammad.khan@answerrocket.com}
+  - {name: Shanti Greene, email: shanti.greene@answerrocket.com, note: also AI Leadership Advisory}
+  - {name: Adith Devakonda, email: adith.devakonda@answerrocket.com}
+  - {name: Jonathan Leo, email: jonathan.leo@answerrocket.com}
+  - {name: Hetul Patel, email: hetul.patel@answerrocket.com}
+  - {name: Rahul Ragunathan, email: rahul.ragunathan@answerrocket.com}
+  - {name: Jake Barger, email: jake.barger@answerrocket.com}
+  - {name: Mark Hodgdon, email: mark.hodgdon@answerrocket.com}
+thresholds: {}
+max_walk_flags: 10
+output:
+  doc_folder: 1HA1mClhk6B-nKwCs0NH1ub2zp2L-t5Gy
+  results_sheet: 1PTuf6BhuaV53C87WjTYQpMqfZDmxaAL3QVrzdsN2_6E
+  results_tab: Results

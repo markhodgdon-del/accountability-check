@@ -1,0 +1,364 @@
+{
+ "rows": [
+  {
+   "email": "alex.holloway@answerrocket.com",
+   "name": "Alexander Holloway",
+   "week": "2026-10-11",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "24",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "alex.holloway@answerrocket.com",
+   "name": "Alexander Holloway",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "16",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "alex.holloway@answerrocket.com",
+   "name": "Alexander Holloway",
+   "week": "2026-10-18",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "39",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "alex.holloway@answerrocket.com",
+   "name": "Alexander Holloway",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "1",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "alex.holloway@answerrocket.com",
+   "name": "Alexander Holloway",
+   "week": "2026-10-25",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "alex.holloway@answerrocket.com",
+   "name": "Alexander Holloway",
+   "week": "2026-11-01",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "40",
+   "blank_note_rows_ge4h": 1,
+   "statuses": "approved"
+  },
+  {
+   "email": "ben.titmus@answerrocket.com",
+   "name": "Ben Titmus",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "48",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "ben.titmus@answerrocket.com",
+   "name": "Ben Titmus",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "47",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "ben.titmus@answerrocket.com",
+   "name": "Ben Titmus",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "49",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "ben.titmus@answerrocket.com",
+   "name": "Ben Titmus",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "47",
+   "blank_note_rows_ge4h": 2,
+   "statuses": "submitted"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-10-11",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "12",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "28",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-10-18",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "2",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "38",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-10-25",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "20",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "20",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-11-01",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "37",
+   "blank_note_rows_ge4h": 1,
+   "statuses": "approved"
+  },
+  {
+   "email": "clayton.summitt@answerrocket.com",
+   "name": "Clayton Summitt",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "3",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "approved"
+  },
+  {
+   "email": "erik.blas@answerrocket.com",
+   "name": "Erik Blas",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "erik.blas@answerrocket.com",
+   "name": "Erik Blas",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "erik.blas@answerrocket.com",
+   "name": "Erik Blas",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "erik.blas@answerrocket.com",
+   "name": "Erik Blas",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 2,
+   "statuses": "submitted"
+  },
+  {
+   "email": "jacob.mcphillips@answerrocket.com",
+   "name": "Jacob McPhillips",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "jacob.mcphillips@answerrocket.com",
+   "name": "Jacob McPhillips",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "jacob.mcphillips@answerrocket.com",
+   "name": "Jacob McPhillips",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "jacob.mcphillips@answerrocket.com",
+   "name": "Jacob McPhillips",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 2,
+   "statuses": "submitted"
+  },
+  {
+   "email": "kevin.mclanahan@answerrocket.com",
+   "name": "Kevin McLanahan",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "40",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kevin.mclanahan@answerrocket.com",
+   "name": "Kevin McLanahan",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "42",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kevin.mclanahan@answerrocket.com",
+   "name": "Kevin McLanahan",
+   "week": "2026-10-25",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "6",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kevin.mclanahan@answerrocket.com",
+   "name": "Kevin McLanahan",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "34",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "kevin.mclanahan@answerrocket.com",
+   "name": "Kevin McLanahan",
+   "week": "2026-11-01",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "2",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "submitted"
+  },
+  {
+   "email": "kevin.mclanahan@answerrocket.com",
+   "name": "Kevin McLanahan",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "38",
+   "blank_note_rows_ge4h": 4,
+   "statuses": "submitted"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-11",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "5",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-11",
+   "project": "other",
+   "hours": "35",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-18",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "16",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-18",
+   "project": "other",
+   "hours": "24",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-25",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "9",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-10-25",
+   "project": "other",
+   "hours": "31",
+   "blank_note_rows_ge4h": 0,
+   "statuses": "harvest"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-11-01",
+   "project": "f6039cfd-f3d2-4158-81f4-4c252230d625",
+   "hours": "7",
+   "blank_note_rows_ge4h": 1,
+   "statuses": "approved"
+  },
+  {
+   "email": "mark.hodgdon@answerrocket.com",
+   "name": "Mark Hodgdon",
+   "week": "2026-11-01",
+   "project": "other",
+   "hours": "33",
+   "blank_note_rows_ge4h": 2,
+   "statuses": "approved"
+  }
+ ]
+}
