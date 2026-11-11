@@ -270,7 +270,7 @@ def test_walk_cap_moves_rest_to_fyi():
     assert len(res["walk"]) == 2 and len(res["fyi"]) == 4   # 6 non-owner roster people, all F3/F5
 
 
-def test_cba_hours_only():
+def test_hours_only_when_jira_is_none():
     cfg = load(CBA)
     J = "jack.haidet@answerrocket.com"
     pid = cfg["ciq"]["primary"]["id"]

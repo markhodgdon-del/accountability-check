@@ -1,5 +1,4 @@
-# Coastal Bridge Advisors weekly team accountability check. No Jira project yet: hours-only flags (F0, F3, F6).
-# When a Jira project exists, set jira: {project: <KEY>, milestone_watch: false, sow_tagging: false}.
+# Coastal Bridge Advisors weekly team accountability check. Jira project "Coastal Bridge Advisors", key CBA (Mark, 11/11).
 account: cba
 label: "Coastal Bridge Advisors"
 results_account: "CBA"
@@ -12,7 +11,7 @@ ciq:
   primary: {id: 67526f69-2583-446a-ac4a-314a374121d2, name: "Coastal Bridge Advisors - AI-powered Signal Intelligence Engine"}
   context: []
   rediscover_names: ["Coastal Bridge", "CBA"]
-jira: null
+jira: {project: CBA, milestone_watch: false, sow_tagging: false}
 slack: {channels: [C0C98TP4S1X]}
 fireflies_titles: ["Coastal Bridge", "CBA", "Signal Intelligence"]
 roster:
