@@ -129,7 +129,7 @@ Read `$RUN/doc.md` once top to bottom: no rates, no other clients' names, no jud
    - Read it back once and check the per-person table rendered.
 2. **Results rows** — `live` mode only, and only if step 5 found no rows for this WEEK and account:
    - Read `Results!A:A`; the first empty row is R. Write `$RUN/results_rows.json` rows with `update_values` at
-     `Results!A<R>:T<R+n-1>` (USER_ENTERED). **Never `append_values`** (the table runs to row 1000, so appends
+     `Results!A<R>:T<R+n-1>` (valueInputOption RAW, as earlier rows). **Never `append_values`** (the table runs to row 1000, so appends
      land at row 1001).
    - Read back the range; the row count and emails must match. A per-minute quota error: wait ~60 s, retry once.
    - `report_only` mode: write no rows; say "TEST run — no Results rows" in the summary.
