@@ -6,7 +6,7 @@ Moved the weekly accountability check from the manual v1.2 routine into this rep
   2026-11-01 still read CIQ's synced Harvest copy (`ciq_time_entries_actuals`, bucketed by work date); from the
   week of 11/22 the whole trend is native CIQ timesheets.
 - Per-account YAML configs (M&O, Hoonigan, Grimco, Coastal Bridge Advisors) with the roster inside each config.
-- CBA from the start with hours-only flags (no Jira project yet).
+- CBA included from the start; Jira project CBA ("Coastal Bridge Advisors", Mark 11/11).
 - Split into an unattended prep run (Wednesday afternoons, one scheduled task per account project) and an
   interactive walk; the prep run's last step asks whether to walk now.
 - F5 kept, always showing the all-project total (v1.2 open question 3, Mark 11/11).

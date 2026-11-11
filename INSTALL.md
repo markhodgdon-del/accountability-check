@@ -7,6 +7,7 @@ Paste each one into a **new chat inside that account's Engagement Lead project**
 ````text
 Install the weekly accountability check for M&O in this project.
 
+0. Confirm the project: call the Projects tool (project_info) and read this project's name. The config expects "Meadows & Ohly - Engagement Lead". If the name differs, say so in step 4 and carry on — the task runs in whichever project this chat is in.
 1. Create one scheduled task with create_trigger:
    - name: "M&O - Weekly Accountability Check (CIQ)"
    - cron_expression: "CRON_TZ=America/New_York 47 13 * * 3"
@@ -30,7 +31,7 @@ Weekly team accountability check — M&O (ACCOUNT=mo). Repo markhodgdon-del/acco
 When Mark says "Walk the accountability check" in this project: add_repo {owner: "markhodgdon-del", repo: "accountability-check", access: "read"}, clone it, read WALK.md and configs/mo.yaml, and follow WALK.md. The weekly prep runs as the scheduled task "M&O - Weekly Accountability Check (CIQ)".
 -----
 3. Run the new task once now as the install test (fire_trigger with its trigger id). The repo config is in report_only mode, so it writes only a "(TEST)" doc and no Results rows.
-4. Tell me: the trigger id, its schedule in ET, its approval setting, and that the test run started.
+4. Tell me: this project's exact name (and whether it matches the config), the trigger id, its schedule in ET, its approval setting, and that the test run started.
 ````
 
 ## Hoonigan — Hoonigan - Engagement Lead
@@ -38,6 +39,7 @@ When Mark says "Walk the accountability check" in this project: add_repo {owner:
 ````text
 Install the weekly accountability check for Hoonigan in this project.
 
+0. Confirm the project: call the Projects tool (project_info) and read this project's name. The config expects "Hoonigan - Engagement Lead". If the name differs, say so in step 4 and carry on — the task runs in whichever project this chat is in.
 1. Create one scheduled task with create_trigger:
    - name: "Hoonigan - Weekly Accountability Check (CIQ)"
    - cron_expression: "CRON_TZ=America/New_York 7 14 * * 3"
@@ -61,7 +63,7 @@ Weekly team accountability check — Hoonigan (ACCOUNT=hoonigan). Repo markhodgd
 When Mark says "Walk the accountability check" in this project: add_repo {owner: "markhodgdon-del", repo: "accountability-check", access: "read"}, clone it, read WALK.md and configs/hoonigan.yaml, and follow WALK.md. The weekly prep runs as the scheduled task "Hoonigan - Weekly Accountability Check (CIQ)".
 -----
 3. Run the new task once now as the install test (fire_trigger with its trigger id). The repo config is in report_only mode, so it writes only a "(TEST)" doc and no Results rows.
-4. Tell me: the trigger id, its schedule in ET, its approval setting, and that the test run started.
+4. Tell me: this project's exact name (and whether it matches the config), the trigger id, its schedule in ET, its approval setting, and that the test run started.
 ````
 
 ## Grimco — Grimco - Engagement Lead
@@ -69,6 +71,7 @@ When Mark says "Walk the accountability check" in this project: add_repo {owner:
 ````text
 Install the weekly accountability check for Grimco in this project.
 
+0. Confirm the project: call the Projects tool (project_info) and read this project's name. The config expects "Grimco - Engagement Lead". If the name differs, say so in step 4 and carry on — the task runs in whichever project this chat is in.
 1. Create one scheduled task with create_trigger:
    - name: "Grimco - Weekly Accountability Check (CIQ)"
    - cron_expression: "CRON_TZ=America/New_York 23 14 * * 3"
@@ -92,7 +95,7 @@ Weekly team accountability check — Grimco (ACCOUNT=grimco). Repo markhodgdon-d
 When Mark says "Walk the accountability check" in this project: add_repo {owner: "markhodgdon-del", repo: "accountability-check", access: "read"}, clone it, read WALK.md and configs/grimco.yaml, and follow WALK.md. The weekly prep runs as the scheduled task "Grimco - Weekly Accountability Check (CIQ)".
 -----
 3. Run the new task once now as the install test (fire_trigger with its trigger id). The repo config is in report_only mode, so it writes only a "(TEST)" doc and no Results rows.
-4. Tell me: the trigger id, its schedule in ET, its approval setting, and that the test run started.
+4. Tell me: this project's exact name (and whether it matches the config), the trigger id, its schedule in ET, its approval setting, and that the test run started.
 ````
 
 ## Coastal Bridge Advisors — Coastal Bridge Advisors - Engagement Lead
@@ -100,6 +103,7 @@ When Mark says "Walk the accountability check" in this project: add_repo {owner:
 ````text
 Install the weekly accountability check for Coastal Bridge Advisors in this project.
 
+0. Confirm the project: call the Projects tool (project_info) and read this project's name. The config expects "Coastal Bridge Advisors - Engagement Lead". If the name differs, say so in step 4 and carry on — the task runs in whichever project this chat is in.
 1. Create one scheduled task with create_trigger:
    - name: "Coastal Bridge Advisors - Weekly Accountability Check (CIQ)"
    - cron_expression: "CRON_TZ=America/New_York 41 14 * * 3"
@@ -123,5 +127,5 @@ Weekly team accountability check — Coastal Bridge Advisors (ACCOUNT=cba). Repo
 When Mark says "Walk the accountability check" in this project: add_repo {owner: "markhodgdon-del", repo: "accountability-check", access: "read"}, clone it, read WALK.md and configs/cba.yaml, and follow WALK.md. The weekly prep runs as the scheduled task "Coastal Bridge Advisors - Weekly Accountability Check (CIQ)".
 -----
 3. Run the new task once now as the install test (fire_trigger with its trigger id). The repo config is in report_only mode, so it writes only a "(TEST)" doc and no Results rows.
-4. Tell me: the trigger id, its schedule in ET, its approval setting, and that the test run started.
+4. Tell me: this project's exact name (and whether it matches the config), the trigger id, its schedule in ET, its approval setting, and that the test run started.
 ````

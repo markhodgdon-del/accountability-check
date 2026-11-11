@@ -8,7 +8,7 @@ per person, as 1:1 conversation starters. Replaces the manual v1.2 routine (Harv
 | M&O | `configs/mo.yaml` | MEADOWSOH | Wed 1:47pm | Meadows & Ohly - Engagement Lead |
 | Hoonigan (Call Queue/CRM) | `configs/hoonigan.yaml` | HOON | Wed 2:07pm | Hoonigan - Engagement Lead |
 | Grimco | `configs/grimco.yaml` | GRIM + milestone watch | Wed 2:23pm | Grimco - Engagement Lead |
-| Coastal Bridge Advisors | `configs/cba.yaml` | none — hours-only (F0, F3, F6) | Wed 2:41pm | Coastal Bridge Advisors - Engagement Lead |
+| Coastal Bridge Advisors | `configs/cba.yaml` | CBA | Wed 2:41pm | Coastal Bridge Advisors - Engagement Lead |
 
 ## How it fits together
 - **Engine** (same for every account): `ROUTINE.md` (prep run), `WALK.md` (interactive walk), `acc/` (flag rules,

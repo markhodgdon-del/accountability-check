@@ -75,6 +75,7 @@ def install_prompt(cfg: dict) -> str:
 When Mark says "Walk the accountability check" in this project: add_repo {{owner: "markhodgdon-del", repo: "accountability-check", access: "read"}}, clone it, read WALK.md and configs/{acc}.yaml, and follow WALK.md. The weekly prep runs as the scheduled task "{label} - Weekly Accountability Check (CIQ)"."""
     return f"""Install the weekly accountability check for {label} in this project.
 
+0. Confirm the project: call the Projects tool (project_info) and read this project's name. The config expects "{cfg['project']}". If the name differs, say so in step 4 and carry on — the task runs in whichever project this chat is in.
 1. Create one scheduled task with create_trigger:
    - name: "{label} - Weekly Accountability Check (CIQ)"
    - cron_expression: "{cron}"
@@ -89,7 +90,7 @@ When Mark says "Walk the accountability check" in this project: add_repo {{owner
 {walk_doc}
 -----
 3. Run the new task once now as the install test (fire_trigger with its trigger id). The repo config is in report_only mode, so it writes only a "(TEST)" doc and no Results rows.
-4. Tell me: the trigger id, its schedule in ET, its approval setting, and that the test run started."""
+4. Tell me: this project's exact name (and whether it matches the config), the trigger id, its schedule in ET, its approval setting, and that the test run started."""
 
 
 def changes(res: dict, prev: dict) -> list[str]:
